@@ -2,14 +2,17 @@
 
 
 **Algorithms Used**
+
 Polynomial Regression
 Logistic Regression
 
 **Experimental Design**
+
 CRISP Methodology Exploratory Data Analysis
 
 
 **Technologies Used**
+
 Python
 
 
